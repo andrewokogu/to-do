@@ -28,6 +28,7 @@ Django = "==3.2.9"
 Jinja2 = "==3.0.3"
 whitenoise = "*"
 gunicorn = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
