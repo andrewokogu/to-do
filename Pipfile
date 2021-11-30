@@ -26,6 +26,7 @@ uritemplate = "==4.1.1"
 urllib3 = "==1.26.7"
 Django = "==3.2.9"
 Jinja2 = "==3.0.3"
+whitenoise = "*"
 
 [dev-packages]
 
